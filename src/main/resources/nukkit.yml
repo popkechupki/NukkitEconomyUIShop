@@ -4,3 +4,7 @@ version: 1.0.0
 author: popkechupki
 api: ["1.0.0"]
 description: EconomyAPI対応のUIショップ（依頼品につき仕様変更不可）
+
+commands:
+  shop:
+    description: EconomyUIShopのフォームを開く

@@ -1,0 +1,8 @@
+form-buyitem: アイテムを購入
+form-sellitem: アイテムを売却
+form-additem: アイテムを追加
+form-removeitem: アイテムを削除
+form-description-buy: 購入したいアイテムのIDとメタ値、個数を入力して次に進んでください
+form-description-sell: 売却したいアイテムのIDとメタ値、個数を入力して次に進んでください
+form-description-add: 追加したいアイテムのIDとメタ値、ひとつ当たりの値段を入力して次に進んでください
+form-description-remove: 削除したいアイテムのIDとメタ値を入力して次の値を入力してください

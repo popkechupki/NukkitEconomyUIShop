@@ -31,6 +31,16 @@ public class SQLite3DataProvider {
         }
     }
 
+    void disConnectSQL() {
+        if (connection != null) {
+            try {
+                connection.close();
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+
     boolean existsShopData(int itemId, int damage) {
         try {
             String sql = "SELECT itemID FROM UIShop WHERE itemID = ? AND damage = ?";

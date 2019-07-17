@@ -1,0 +1,8 @@
+form-buyitem: Buy item
+form-sellitem: Sell item
+form-additem: Add item
+form-removeitem: Remove item
+form-description-buy: Enter itemId, meta and amount that you want to buy.
+form-description-sell: Enter itenId, meta and amount that you want to sell.
+form-description-add: Enter itemId, meta and price of the item that you want to register.
+form-description-remove: Enter itemId and meta that you want to remove from shop.
