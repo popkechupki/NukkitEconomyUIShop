@@ -1,0 +1,6 @@
+name: EconomyUIShop
+main: net.comorevi.nukkitplugin.EconomyUIShop
+version: 1.0.0
+author: popkechupki
+api: ["1.0.0"]
+description: EconomyAPI対応のUIショップ（依頼品につき仕様変更不可）
